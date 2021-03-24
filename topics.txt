@@ -3,4 +3,16 @@
 Git - Version Control System
 ---
 
-Github
+git init - 1 time
+
+git add *
+
+git commit -m "message"
+
+git remote add origin https://github.com/nahian91/class22.git - 1 time
+
+git push origin master
+
+
+
+git status
